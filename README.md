@@ -7,15 +7,12 @@ speech recognition
 
 ```
 pip install speechrecognition
-
 ```
 ```
 pip install pyaudio
-
 ```
 ```
 pip install selenium
-
 ```
 
 ### selenium
